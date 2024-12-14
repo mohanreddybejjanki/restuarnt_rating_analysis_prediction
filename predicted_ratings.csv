@@ -1,0 +1,11 @@
+name,online_order,book_table,votes,location,rest_type,cuisines,cost,type,city,rating
+Madras Meal Company,True,False,400,Banashankari,"Casual Dining, Takeaway, Delivery","South Indian, Chettinad",400.0,Buffet,Banashankari,3.9
+Dwarkamai ,True,False,291,Banashankari,Casual Dining,"South Indian, Chinese, Street Food",690.0,Buffet,Banashankari,3.9
+Great Indian Khichdi,True,True,1279,J P Nagar,"Casual Dining, Delivery","North Indian, Healthy Food",420.0,Buffet,J P Nagar,4.2
+Shiv Sagar Signature,False,False,705,J P Nagar,Casual Dining,"South Indian, Fast Food, Chinese",239.0,Buffet,J P Nagar,3.9
+Vesuvio,False,True,200,Bannerghatta Road,Fine Dining,Italian,1000.0,Dine-out,Bannerghatta Road,4.0
+Lombard ,False,True,35,Jayanagar,Casual Dining,"Italian, Spanish",900.0,Buffet,Jayanagar,3.2
+Xi Jumping!,True,True,69,Banashankari,"Casual Dining, Takeaway, Delivery","Chinese, Fast Food",200.0,Buffet,Banashankari,3.6
+Andhra Gunpowder,True,True,975,Indiranagar,"Casual Dining, Takeaway, Delivery",Andhra,400.0,Buffet,Banashankari,3.8
+Punjabi Nawabi,True,False,99,Indiranagar,"Casual Dining, Delivery","North Indian, Mughlai, Biryani",300.0,Buffet,Banashankari,3.7
+Lo! - Low Carb and Keto Foods,True,False,333,Domlur,"Takeaway, Delivery","Rolls, American, Healthy Food",400.0,Delivery,Indiranagar,4.2
